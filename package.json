@@ -3,7 +3,7 @@
     "@renovatebot/ruby-semver": "1.1.0"
   },
   "renovate": {
-    "extends": ["github>renovatebot/.github"],
-    "prCreation": "immediate"
+    "stabilityDays": 7,
+    "internalChecksFilter": "strict"
   }
 }
