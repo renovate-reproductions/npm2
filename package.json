@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@renovatebot/ruby-semver": "1.0.0"
+  },
+  "renovate": {
+    "extends": ["github>renovatebot/.github"]
+  }
+}
