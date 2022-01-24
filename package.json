@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@renovatebot/ruby-semver": "1.0.0"
+    "@renovatebot/ruby-semver": "1.1.0"
   },
   "renovate": {
     "stabilityDays": 7,
